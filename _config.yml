@@ -4,11 +4,11 @@
 
 # Site
 title: Zombie
-subtitle: ''
-description: ''
+subtitle: '奔赴山海，抱持热爱'
+description: '心有所向，无问东西'
 keywords:
 author: Zombie
-language: en
+language: zh-CN
 timezone: ''
 
 # URL
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme:  next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
